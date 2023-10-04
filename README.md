@@ -23,3 +23,9 @@ Configuring DHCP Server (Router as the DHCP Server).
 Configuring WLAN or wireless network (Cisco Access Point).
 Host Device Configurations.
 Test and Verifying Network Communication.
+
+
+#subnetting
+#configure interfaces & VLAN
+#DHCP
+#Access point
