@@ -6,14 +6,14 @@ Engineered an Office Network Infrastructure Design strategy. Technologies implem
 
 
 #Technologies Implemented
-Creating a Simple Network using a Router and Access Layer Switch.
-Connecting Networking devices with Correct cabling.
-Creating VLANs and assigning ports VLAN numbers.
-Subnetting and IP Addressing.
-Configuring Inter-VLAN Routing (Router on a stick).
-Configuring DHCP Server (Router as the DHCP Server).
-Configuring WLAN or wireless network (Cisco Access Point).
-Host Device Configurations.
-Test and Verifying Network Communication.
+> Creating a Simple Network using a Router and Access Layer Switch.
+> Connecting Networking devices with Correct cabling.
+> Creating VLANs and assigning ports VLAN numbers.
+> Subnetting and IP Addressing.
+> Configuring Inter-VLAN Routing (Router on a stick).
+> Configuring DHCP Server (Router as the DHCP Server).
+> Configuring WLAN or wireless network (Cisco Access Point).
+> Host Device Configurations.
+> Test and Verifying Network Communication.
 
 
